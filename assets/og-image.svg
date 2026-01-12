@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0a0b"/>
+  <text x="600" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="500" fill="#e4e4e7" text-anchor="middle">GameForge</text>
+  <text x="600" y="360" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="400" fill="#a1a1aa" text-anchor="middle">Play-to-Build on Solana</text>
+  <text x="600" y="520" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#71717a" text-anchor="middle">Pre-token coordination for early-stage game developers</text>
+</svg>
