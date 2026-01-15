@@ -270,6 +270,18 @@ td:last-child {
     color: var(--color-text-subtle);
 }
 
+/* Founder Statement */
+.founder-statement {
+    border-left: 3px solid var(--color-border);
+    padding-left: var(--spacing-md);
+}
+
+.founder-sig {
+    font-style: italic;
+    color: var(--color-text-muted);
+    margin-top: var(--spacing-md);
+}
+
 /* Footer */
 .footer {
     width: 100%;
